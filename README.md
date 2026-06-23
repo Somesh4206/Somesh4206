@@ -22,7 +22,7 @@
 
 ## 🌌 `>> whoami`
 
-```python
+python
 class Somesh4206:
     def __init__(self):
         self.name         = "Somesh"
@@ -38,7 +38,7 @@ class Somesh4206:
 
 me = Somesh4206()
 me.say_hi()
-```
+
 
 ---
 
