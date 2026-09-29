@@ -1,207 +1,279 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e0e0e&height=230&section=header&text=Somesh%20M&fontSize=52&fontColor=f5f1e8&animation=fadeIn&fontAlignY=36&desc=BUILDING%20Intelligent%20SYSTEMS%20—%20Vol.%2001%20·%20EST.%202026&descAlignY=57&descSize=14" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e0e0e&height=230&section=header&text=Somesh%20M&fontSize=52&fontColor=f5f1e8&animation=fadeIn&fontAlignY=36&desc=AI%20DEVELOPER%20%C2%B7%20FULL%20STACK%20ENGINEER&descAlignY=57&descSize=14" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://somesh-m.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=F5F1E8&center=true&vCenter=true&width=800&lines=AI+Developer+%7C+Full+Stack+Engineer;Building+AI-powered+full-stack+systems;RAG+assistants+%7C+Intelligent+software;Based+in+India+%7C+CS+%26+Business+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=0E0E0E&center=true&vCenter=true&width=800&lines=AI+Developer+%7C+Full+Stack+Engineer;Building+AI-powered+applications;Generative+AI+%7C+RAG+%7C+Machine+Learning;Python+%7C+Java+%7C+React+%7C+Flutter;Computer+Science+%26+Business+Systems" alt="Somesh M - AI Developer and Full Stack Engineer" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Somesh4206&label=Profile%20views&color=0e0e0e&style=flat" />
-  <a href="https://somesh-m.vercel.app/"><img src="https://img.shields.io/badge/Portfolio_2026-Live-0e0e0e?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://somesh-m.vercel.app/resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-f5f1e8?style=for-the-badge&logo=adobeacrobatreader&logoColor=0e0e0e" /></a>
-  <img src="https://img.shields.io/github/followers/Somesh4206?label=Followers&style=for-the-badge&color=0e0e0e" />
+  <a href="https://somesh-m.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Live-0e0e0e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://somesh-m.vercel.app/resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-PDF-f5f1e8?style=for-the-badge&logo=adobeacrobatreader&logoColor=0e0e0e" alt="Resume" />
+  </a>
+  <a href="https://www.linkedin.com/in/somesh4206/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="#-a-little-about-me">01 About</a> · <a href="#-selected-work">02 Work</a> · <a href="#️-where-ive-been-building">03 Experience</a> · <a href="#-the-tools-behind-the-work">04 Skills</a> · <a href="#-lets-build-something-intelligent">05 Contact</a> · <a href="https://somesh-m.vercel.app/"><b>Portfolio ↗</b></a>
+  <img src="https://komarev.com/ghpvc/?username=Somesh4206&label=Profile%20Views&color=0e0e0e&style=flat" alt="GitHub profile views" />
+  <img src="https://img.shields.io/github/followers/Somesh4206?label=Followers&style=flat&color=0e0e0e" alt="GitHub followers" />
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
-</p>
-
-> Portfolio · 2026 — `Somesh M | AI Developer & Full Stack Engineer` — Live at **[somesh-m.vercel.app](https://somesh-m.vercel.app/)**
-
-<h1 align="center">BUILDING <i>Intelligent</i> SYSTEMS.</h1>
-<p align="center">Computer Science student building AI-powered, full-stack and intelligent software.<br><b><a href="https://somesh-m.vercel.app/#work">Explore work →</a></b> &nbsp; <b><a href="https://somesh-m.vercel.app/resume.pdf">View resume →</a></b></p>
-<p align="center"><code>01</code> <b>AI Developer</b> &nbsp; <code>02</code> <b>Full Stack Engineer</b> &nbsp; <code>03</code> <b>Cybersecurity Enthusiast</b><br><i>Based in India · CS & Business Systems · Fig. 01 — The Engineer</i></p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
-
-## 📖 A little about me.
-
-> “I build software at the intersection of *artificial intelligence*, full-stack engineering and *product development*.”
-
-<table>
-<tr>
-<td width="60%">
-
-I'm a CS & Business Systems undergrad who learns by shipping — RAG assistants, career-intelligence tools, planning platforms, and full-stack apps, from retrieval pipeline to finished interface.
-
-I care about useful over flashy: honest scope, clean architecture, and systems that respect the people using them.
-
-- **Discipline:** CS & Business Systems
-- **Focus:** AI / ML / Full Stack
-- **Currently:** ML Intern @ Brainery Spot + shipping intelligent systems
-- **Streak:** 100-day LeetCode problem-solving
-
-</td>
-<td width="40%" align="center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038139/0c7a8367-1bd6-4ae4-b9c2-8dd5590085d2.gif" width="100%" alt="coding" />
-<br>
-<a href="https://somesh-m.vercel.app/"><img src="https://img.shields.io/badge/Open_to-Internships_%26_Collabs-0e0e0e?style=flat-square&logoColor=white" /></a>
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
-
-## 📰 Selected work.
-*Six builds, each with its own case-study page.*
-
-### 01 — SkillVision AI ⭐
-**Intelligent Career & Skill Intelligence System** — `SKILLS · KNOWLEDGE · CAREER · LEARNING`
-
-> Job seekers can't see how skills map to real roles. SkillVision parses resumes → ATS score → skill gaps → roadmaps + mock interviews + job leads with RAG grounding.
-
-![React](https://img.shields.io/badge/React-0e0e0e?style=flat-square&logo=react) ![TypeScript](https://img.shields.io/badge/TypeScript-0e0e0e?style=flat-square&logo=typescript) ![Tailwind](https://img.shields.io/badge/Tailwind-0e0e0e?style=flat-square&logo=tailwindcss) ![Express](https://img.shields.io/badge/Express-0e0e0e?style=flat-square&logo=express) ![Gemini](https://img.shields.io/badge/Gemini_RAG-f5f1e8?style=flat-square&logo=google&logoColor=0e0e0e)
-
-[Case study →](https://somesh-m.vercel.app/projects/skillvision-ai) · [GitHub](https://github.com/Somesh4206/SkillVision) · [Live Demo](https://skillvisionai.onrender.com)
 
 ---
-### 02 — OpenBlueprint
-**From Measurements to Intelligent Blueprints.** `Measure → Analyze → Plan → Visualize → Estimate`
 
-> Turns natural-language requirements into 5 design strategies with BSP layout engine + CAD-like 2D editor + clay 3D + INR cost + RAG assistant.
+# 👋 Hi, I'm Somesh M
 
-![Next.js](https://img.shields.io/badge/Next.js-0e0e0e?style=flat-square&logo=next.js) ![Prisma](https://img.shields.io/badge/Prisma-0e0e0e?style=flat-square) ![3D](https://img.shields.io/badge/3D_Viz-f5f1e8?style=flat-square) ![AI](https://img.shields.io/badge/AI_RAG-0e0e0e?style=flat-square)
+### AI Developer | Full Stack Engineer | Machine Learning & Generative AI Enthusiast
 
-[Case study →](https://somesh-m.vercel.app/projects/openblueprint) · [GitHub](https://github.com/Somesh4206/OpenBlueprint)
+I'm **Somesh M**, a Computer Science and Business Systems undergraduate focused on **Artificial Intelligence, Machine Learning, Generative AI, RAG systems, and full-stack application development**.
 
-*Note — Preliminary layouts for exploration — not a substitute for a licensed architect.*
+I enjoy turning ideas into practical software — from AI-powered career platforms and intelligent planning systems to customer-support agents and full-stack applications.
+
+I learn by building, experimenting, and shipping real projects.
+
+<p align="center">
+  <a href="https://somesh-m.vercel.app/"><b>🌐 Portfolio</b></a> ·
+  <a href="https://www.linkedin.com/in/somesh4206/"><b>💼 LinkedIn</b></a> ·
+  <a href="https://leetcode.com/u/somesh-m/"><b>🧩 LeetCode</b></a> ·
+  <a href="https://www.hackerrank.com/profile/someshm7662"><b>🏆 HackerRank</b></a>
+</p>
 
 ---
-### 03 — DiagnoraX
-**Your Personal AI Health Companion** `SYMPTOMS → AI ANALYSIS → GUIDANCE → DOCTOR → FOLLOW-UP`
 
-> Built during ML internship: AI symptom checker, body-comp analysis, prescription OCR, interaction warnings, reminders + Firebase auth/data.
+## 🚀 What I Build
 
-![Flutter](https://img.shields.io/badge/Flutter-0e0e0e?style=flat-square&logo=flutter) ![Firebase](https://img.shields.io/badge/Firebase-0e0e0e?style=flat-square&logo=firebase) ![Gemini](https://img.shields.io/badge/Gemini-f5f1e8?style=flat-square)
-
-[Case study →](https://somesh-m.vercel.app/projects/diagnorax) · [GitHub](https://github.com/Somesh4206/DiagnoraX-App)
-
-*Note — Organizes health info — not medical diagnosis.*
-
----
-### 04 — JeduAI Connect
-**Smart Learning and Language Empowerment** `EN · TA · HI + every classroom`
-
-> Live classes + AI: attendance automation, translation, multilingual paths across student / teacher / admin roles.
-
-![Flutter](https://img.shields.io/badge/Flutter-0e0e0e?style=flat-square&logo=flutter) ![Firebase](https://img.shields.io/badge/Firebase-0e0e0e?style=flat-square&logo=firebase)
-
-[Case study →](https://somesh-m.vercel.app/projects/jeduai-connect) · [GitHub](https://github.com/Somesh4206/JeduAI) · [Live](https://jeduai-connect.netlify.app) · [APK](https://drive.usercontent.google.com/download?id=1HthWUYS96OI2fh8-SLpyDQl20pb59Ltc&export=download&authuser=0&confirm=t&uuid=8970889b-7c4c-4eff-8266-c136ddc01e45&at=AMrWOn0yi_Wc8XpUL59xFWtqWWvB%3A1789634457840)
+* 🤖 **AI & Machine Learning Applications**
+* 🧠 **Generative AI & RAG Systems**
+* 💻 **Full Stack Web Applications**
+* 📱 **Flutter Applications**
+* 🔎 **Career & Skill Intelligence Systems**
+* 🏠 **AI-assisted Planning & Visualization Tools**
+* 💬 **AI Customer Support Agents**
+* 🔐 **Secure and practical software systems**
 
 ---
-### 05 — AppleSupport AI
-**AI Customer Support Intelligence** `CONVERSATION → RETRIEVAL → RESPONSE → ESCALATION`
 
-> TF-IDF vs embeddings, RAG retrieval, classification + escalation policy, LLM + human eval.
+## 📰 Featured Projects
 
-![Python](https://img.shields.io/badge/Python-0e0e0e?style=flat-square&logo=python) ![RAG](https://img.shields.io/badge/RAG-f5f1e8?style=flat-square) ![Jupyter](https://img.shields.io/badge/Jupyter-0e0e0e?style=flat-square&logo=jupyter)
+### 01 · SkillVision AI
 
-[Case study →](https://somesh-m.vercel.app/projects/applesupport-ai) · [GitHub](https://github.com/Somesh4206/Apple-Support-Agent)
+**Intelligent Career & Skill Intelligence System**
+
+A career intelligence platform designed to connect resumes, skills, career roles and learning paths.
+
+**Workflow:**
+`Resume → ATS Analysis → Skill Gap Detection → Career Insights → Learning Path → Interview Preparation`
+
+**Tech:** React · TypeScript · Tailwind CSS · Express · AI · RAG
+
+🔗 **[Case Study](https://somesh-m.vercel.app/projects/skillvision-ai)** ·
+💻 **[GitHub](https://github.com/Somesh4206/SkillVision)** ·
+🚀 **[Live Demo](https://skillvisionai.onrender.com)**
 
 ---
-### 06 — Adventure Game — “The Archive”
-**Full-stack text adventure** — *“Two doors glow faintly. Choose wisely…”*
 
-`$ ./adventure --start` — Spring Boot + React + MySQL + JWT · 3 chapters · achievements · leaderboard.
+### 02 · OpenBlueprint
 
-[Case study →](https://somesh-m.vercel.app/projects/adventure-game) · [GitHub](https://github.com/Somesh4206/adventure-game) · [Live](https://adventure-game-navy.vercel.app)
+**From Measurements to Intelligent Blueprints**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
+An AI-assisted house-planning platform for transforming measurements and requirements into editable floor plans, 3D visualizations and estimated costs.
 
-## 🏛️ Where I've been building.
+**Workflow:**
+`Measurements → Requirements → AI Analysis → Design Strategies → 2D Editor → 3D Visualization → Cost Estimation`
 
-| Period | Role |
-|--------|------|
-| **2026 · Internship** | **Brainery Spot Technologies — *Machine Learning Intern***<br>Designed + built DiagnoraX end-to-end (React + Flutter + Firebase + Gemini) |
-| **2025 · Internship** | **Nandha Info Tech — *Full Stack Intern***<br>Frontend + backend modules, shipped web apps |
-| **2027 🎓** | **B.Tech CS & Business Systems**<br>V.S.B. Engineering College · Anna University |
+**Tech:** Next.js · Prisma · AI · RAG · 2D/3D Visualization
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
+🔗 **[Case Study](https://somesh-m.vercel.app/projects/openblueprint)** ·
+💻 **[GitHub](https://github.com/Somesh4206/OpenBlueprint)**
 
-## 🧰 The tools behind the work.
+> Preliminary layouts are intended for exploration and are not a substitute for a licensed architect.
+
+---
+
+### 03 · DiagnoraX
+
+**Your Personal AI Health Companion**
+
+An AI-powered application for organizing health information and providing symptom analysis, prescription OCR, reminders and related assistance.
+
+**Workflow:**
+`Symptoms → AI Analysis → Guidance → Doctor Recommendation → Follow-up`
+
+**Tech:** React · Flutter · Firebase · Gemini API · Express
+
+🔗 **[Case Study](https://somesh-m.vercel.app/projects/diagnorax)** ·
+💻 **[GitHub](https://github.com/Somesh4206/DiagnoraX-App)**
+
+> Provides informational assistance and does not replace professional medical diagnosis or treatment.
+
+---
+
+### 04 · JeduAI Connect
+
+**Smart Learning & Language Empowerment Platform**
+
+A learning platform connecting students, teachers and administrators through live classes, attendance automation and multilingual learning features.
+
+**Tech:** Flutter · Firebase · AI · Translation
+
+🔗 **[Case Study](https://somesh-m.vercel.app/projects/jeduai-connect)** ·
+💻 **[GitHub](https://github.com/Somesh4206/JeduAI)** ·
+🚀 **[Live Demo](https://jeduai-connect.netlify.app/)**
+
+---
+
+### 05 · AppleSupport AI
+
+**AI Customer Support Intelligence Agent**
+
+An AI customer-support project focused on conversation retrieval, classification, response generation and escalation.
+
+**Workflow:**
+`Conversation → Retrieval → Classification → Response → Escalation`
+
+**Tech:** Python · Machine Learning · TF-IDF · Embeddings · RAG · LLM Evaluation
+
+🔗 **[Case Study](https://somesh-m.vercel.app/projects/applesupport-ai)** ·
+💻 **[GitHub](https://github.com/Somesh4206/Apple-Support-Agent)**
+
+---
+
+### 06 · Adventure Game
+
+**The Archive — Full-Stack Text Adventure**
+
+An interactive full-stack adventure game featuring multiple chapters, achievements and a leaderboard.
+
+**Tech:** Spring Boot · React · MySQL · JWT
+
+🔗 **[Case Study](https://somesh-m.vercel.app/projects/adventure-game)** ·
+💻 **[GitHub](https://github.com/Somesh4206/adventure-game)** ·
+🚀 **[Live Demo](https://adventure-game-navy.vercel.app)**
+
+---
+
+## 🧠 Technical Skills
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-0e0e0e?style=flat-square\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-0e0e0e?style=flat-square\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0e0e0e?style=flat-square\&logo=javascript\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0e0e0e?style=flat-square\&logo=typescript\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0e0e0e?style=flat-square\&logo=dart\&logoColor=white)
+
+### AI / Machine Learning
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-0e0e0e?style=flat-square)
+![Generative AI](https://img.shields.io/badge/Generative_AI-0e0e0e?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-0e0e0e?style=flat-square)
+![LLM](https://img.shields.io/badge/LLM-0e0e0e?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini-0e0e0e?style=flat-square\&logo=google\&logoColor=white)
+
+### Development
+
+![React](https://img.shields.io/badge/React-0e0e0e?style=flat-square\&logo=react\&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-0e0e0e?style=flat-square\&logo=flutter\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0e0e0e?style=flat-square\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-0e0e0e?style=flat-square\&logo=express\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0e0e0e?style=flat-square\&logo=tailwindcss\&logoColor=white)
+
+### Databases & Tools
+
+![Firebase](https://img.shields.io/badge/Firebase-0e0e0e?style=flat-square\&logo=firebase\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0e0e0e?style=flat-square\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0e0e0e?style=flat-square\&logo=mysql\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0e0e0e?style=flat-square\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0e0e0e?style=flat-square\&logo=git\&logoColor=white)
+
+---
+
+## 💼 Experience
+
+| Period      | Experience                                                                                                                 |
+| ----------- | -------------------------------------------------------------------------------------------------------------------------- |
+| **2026**    | **Machine Learning Intern — Brainery Spot Technologies**<br>Built and developed DiagnoraX as an AI/ML-focused application. |
+| **2025**    | **Full Stack Development Intern — Nandha Info Tech**<br>Worked on frontend and backend web development modules.            |
+| **2027 🎓** | **B.Tech — Computer Science & Business Systems**<br>V.S.B. Engineering College · Anna University                           |
+
+---
+
+## 🎓 Certifications
+
+* **Python Programming**
+* **Programming in Java — NPTEL**
+* **Introduction to Generative AI — Coursera**
+* **Introduction to IoT and Digital Transformation — NASSCOM**
+* **Becoming an Agentforce Champion — Salesforce**
+
+---
+
+## 🏆 Coding & Development Milestones
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,js,ts,dart,react,flutter,nodejs,express,firebase,tailwind,mongodb,mysql,prisma,docker,git,vscode&perline=9" />
+  <img src="https://img.shields.io/badge/100+-DSA_Problems_Solved-0e0e0e?style=for-the-badge" alt="100+ DSA problems solved" />
+  <img src="https://img.shields.io/badge/100-Day-LeetCode_Streak-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="100 day LeetCode streak" />
+  <img src="https://img.shields.io/badge/02-Internships-0e0e0e?style=for-the-badge" alt="2 internships" />
+  <img src="https://img.shields.io/badge/06-Featured_Projects-0e0e0e?style=for-the-badge" alt="6 featured projects" />
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Somesh4206&show_icons=true&theme=dark&hide_border=true&title_color=f5f1e8&icon_color=f5f1e8&text_color=f5f1e8&bg_color=0e0e0e&include_all_commits=true" alt="Somesh M GitHub statistics" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Somesh4206&theme=dark&hide_border=true&background=0e0e0e&ring=f5f1e8&fire=f5f1e8&currStreakLabel=f5f1e8&sideLabels=f5f1e8&currStreakNum=f5f1e8&sideNums=f5f1e8&dates=f5f1e8" alt="Somesh M GitHub streak" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-APIs_ML-0e0e0e?style=flat-square&logo=python" /> <img src="https://img.shields.io/badge/RAG-Retrieval-0e0e0e?style=flat-square" /> <img src="https://img.shields.io/badge/React-UI-0e0e0e?style=flat-square&logo=react" /> <img src="https://img.shields.io/badge/Flutter-Apps-0e0e0e?style=flat-square&logo=flutter" /> <img src="https://img.shields.io/badge/Docker-Env-0e0e0e?style=flat-square&logo=docker" />
-<br><i>Currently deepening — RAG evaluation · Docker workflows · Secure API design</i>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somesh4206&layout=compact&theme=dark&hide_border=true&bg_color=0e0e0e&title_color=f5f1e8&text_color=f5f1e8" alt="Somesh M most used programming languages" />
 </p>
-
-### 01 Languages / 02 AI·ML / 03 Dev / 04 Tools
-Python · Java · JavaScript · Dart — ML · GenAI · RAG · Gemini APIs — React · Flutter · Express · Firebase · Tailwind — Git · Docker
-
-## 🎓 Certifications.
-Python · Java (NPTEL) · GenAI (Coursera) · IoT (NASSCOM) · Agentforce Champion 2025 + 2026 (Salesforce)
-
-## 📌 Milestones — Built. Learned. Solved.
-<p align="center">
-<img src="https://img.shields.io/badge/100+-DSA_Solved-0e0e0e?style=for-the-badge" /> <img src="https://img.shields.io/badge/100_day-LeetCode_Streak-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /> <img src="https://img.shields.io/badge/02-Internships-f5f1e8?style=for-the-badge" /> <img src="https://img.shields.io/badge/06-Shipped_Projects-0e0e0e?style=for-the-badge" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
-
-## 📊 The proof — live from GitHub
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Somesh4206&show_icons=true&theme=dark&hide_border=true&title_color=f5f1e8&icon_color=f5f1e8&text_color=f5f1e8&bg_color=0e0e0e&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://streak-stats.demolab.com?user=Somesh4206&theme=dark&hide_border=true&background=0e0e0e&ring=f5f1e8&fire=f5f1e8&currStreakLabel=f5f1e8&sideLabels=f5f1e8&currStreakNum=f5f1e8&sideNums=f5f1e8&dates=f5f1e8" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somesh4206&layout=compact&theme=dark&hide_border=true&bg_color=0e0e0e&title_color=f5f1e8&text_color=f5f1e8" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Somesh4206&bg_color=0e0e0e&color=f5f1e8&line=f5f1e8&point=f5f1e8&area=true&hide_border=true&height=280" width="95%" />
-</p>
-
-<!-- Snake animation - needs Platane/snk workflow to work: -->
-<!-- <p align="center"><img src="https://raw.githubusercontent.com/Somesh4206/Somesh4206/output/github-snake-dark.svg" width="95%" /></p> -->
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Somesh4206&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Somesh4206&bg_color=0e0e0e&color=f5f1e8&line=f5f1e8&point=f5f1e8&area=true&hide_border=true&height=280" width="95%" alt="Somesh M GitHub activity graph" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
+---
 
-## 📬 Let's build *something* intelligent.
-*Available for software engineering, AI and full-stack opportunities.*
-<p align="center">
-  <a href="https://www.linkedin.com/in/somesh4206/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Somesh4206/"><img src="https://img.shields.io/badge/GitHub-%40Somesh4206-0e0e0e?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/somesh-m/"><img src="https://img.shields.io/badge/LeetCode-100_day_streak-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://www.hackerrank.com/profile/someshm7662"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-  <a href="mailto:someshm7662@gmail.com"><img src="https://img.shields.io/badge/Email-Email_me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /></p>
+## 📬 Connect With Me
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e0e0e&height=120&section=footer&text=©%202026%20Somesh%20M%20—%20All%20stories%20told%20honestly.&fontSize=16&fontColor=f5f1e8&animation=fadeIn&fontAlignY=65" width="100%" />
+  <a href="https://somesh-m.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0e0e0e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/somesh4206/">
+    <img src="https://img.shields.io/badge/LinkedIn-Somesh_M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+  </a>
+  <a href="https://github.com/Somesh4206/">
+    <img src="https://img.shields.io/badge/GitHub-Somesh4206-0e0e0e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+  <a href="https://leetcode.com/u/somesh-m/">
+    <img src="https://img.shields.io/badge/LeetCode-Somesh_M-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/someshm7662">
+    <img src="https://img.shields.io/badge/HackerRank-Somesh_M-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank profile" />
+  </a>
 </p>
-<p align="center"><i>Set in Cormorant & Inter · Printed on pixels · <a href="https://somesh-m.vercel.app/">somesh-m.vercel.app</a></i></p>
-What changed to highlight things:
-- Gradient rect dividers between every section - creates background rhythm
-- About in 2-column table + coding GIF + Open to badge to draw eye
-- Projects: tech as flat-square badges (scannable), ⭐ on best project, → CTA links, --- separators
-- Experience as table, Milestones as for-the-badge counters
-- Added top-langs card, kept stats/streak/graph/trophy
-2 optional upgrades (2 min each):
-1. Snake animation - add Platane/snk workflow outputting to output branch, then uncomment snake line.
-2. Replace GIF with your own demo GIFs/screenshots per project - single biggest highlight boost.
+
+<p align="center">
+  📧 <a href="mailto:someshm7662@gmail.com">someshm7662@gmail.com</a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building intelligent systems, one project at a time.</i>
+</p>
+
+<p align="center">
+  <a href="https://somesh-m.vercel.app/">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0e0e0e&height=120&section=footer&text=Somesh%20M&fontSize=18&fontColor=f5f1e8&animation=fadeIn&fontAlignY=65" width="100%" />
+  </a>
+</p>
