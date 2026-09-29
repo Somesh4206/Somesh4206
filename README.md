@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://somesh-m.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=0E0E0E&center=true&vCenter=true&width=800&lines=AI+Developer+%7C+Full+Stack+Engineer;Building+AI-powered+applications;Generative+AI+%7C+RAG+%7C+Machine+Learning;Python+%7C+Java+%7C+React+%7C+Flutter;Computer+Science+%26+Business+Systems" alt="Somesh M - AI Developer and Full Stack Engineer" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=0E0E0E&center=true&vCenter=true&width=800&lines=AI+Developer+%7C+Full+Stack+Engineer;Building+AI-powered+applications;Generative+AI+%7C+RAG+%7C+Machine+Learning;Python+%7C+Java+%7C+React+%7C+Flutter;Computer+Science+%26+Business+Systems" alt="Somesh M - AI / ML Developer and Full Stack Engineer" />
   </a>
 </p>
 
